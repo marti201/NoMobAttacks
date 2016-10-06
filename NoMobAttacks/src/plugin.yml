@@ -3,3 +3,6 @@ version: 1.0
 main: me.marti201.nomobattacks.NoMobAttacks
 author: Marti201
 description: Entities don't attack players
+permissions:
+  nomobattacks.noattack:
+    default: false
